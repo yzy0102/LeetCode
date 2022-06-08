@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="" />
+    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="1790 时间复杂度O(n)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654513397842</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1790 时间复杂度O(n)">
+      <created>1654701618580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654701618580</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +239,8 @@
     <MESSAGE value="1779一遍过" />
     <MESSAGE value="1822简单题" />
     <MESSAGE value="1502超级简单题" />
-    <option name="LAST_COMMIT_MESSAGE" value="1502超级简单题" />
+    <MESSAGE value="1790 时间复杂度O(n)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1790 时间复杂度O(n)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
