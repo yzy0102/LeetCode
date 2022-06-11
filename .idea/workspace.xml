@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="1572 简">
-      <change afterPath="$PROJECT_DIR$/数组/566. 重塑矩阵.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="556 数学" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -285,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654943139466</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="556 数学">
+      <created>1654955577389</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654955577389</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,7 +317,8 @@
     <MESSAGE value="283 双指针" />
     <MESSAGE value="283 双指针&#10;1672 弱智题" />
     <MESSAGE value="1572 简" />
-    <option name="LAST_COMMIT_MESSAGE" value="1572 简" />
+    <MESSAGE value="556 数学" />
+    <option name="LAST_COMMIT_MESSAGE" value="556 数学" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
