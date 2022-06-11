@@ -57,8 +57,6 @@ class Solution(object):
                 left += 1
             right += 1
 
-
-
 if __name__ == '__main__':
     S = Solution()
     nums = [0,0,1,0,3,12]
