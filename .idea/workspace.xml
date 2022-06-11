@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="1678 exr">
-      <change afterPath="$PROJECT_DIR$/字符串/389. 找不同.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="389 拼接+位运算+reduce计数">
+      <change afterPath="$PROJECT_DIR$/字符串/709. 转换成小写字母.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,28 +54,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.389. 找不同">
-    <configuration name="1572. 矩阵对角线元素的和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数组" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组/1572. 矩阵对角线元素的和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.709. 转换成小写字母">
     <configuration name="1678. 设计 Goal 解析器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,13 +139,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="709. 转换成小写字母" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/709. 转换成小写字母.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.709. 转换成小写字母" />
         <item itemvalue="Python.389. 找不同" />
         <item itemvalue="Python.1678. 设计 Goal 解析器" />
         <item itemvalue="Python.1768. 交替合并字符串" />
         <item itemvalue="Python.566. 重塑矩阵" />
-        <item itemvalue="Python.1572. 矩阵对角线元素的和" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654957568967</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="389 拼接+位运算+reduce计数">
+      <created>1654959131124</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959131124</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +350,8 @@
     <MESSAGE value="556 数学" />
     <MESSAGE value="1768 简单" />
     <MESSAGE value="1678 exr" />
-    <option name="LAST_COMMIT_MESSAGE" value="1678 exr" />
+    <MESSAGE value="389 拼接+位运算+reduce计数" />
+    <option name="LAST_COMMIT_MESSAGE" value="389 拼接+位运算+reduce计数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
