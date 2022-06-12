@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="1290 按位左移">
-      <change afterPath="$PROJECT_DIR$/链表/876. 链表的中间结点.py" afterDir="false" />
+    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="876 快慢指针很关键">
+      <change afterPath="$PROJECT_DIR$/二叉树/104. 二叉树的最大深度.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表/876. 链表的中间结点.py" beforeDir="false" afterPath="$PROJECT_DIR$/链表/876. 链表的中间结点.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -348,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655045073262</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="876 快慢指针很关键">
+      <created>1655045985077</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1655045985077</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,7 +392,8 @@
     <MESSAGE value="1309 解码字母" />
     <MESSAGE value="953 题目晦涩难懂" />
     <MESSAGE value="1290 按位左移" />
-    <option name="LAST_COMMIT_MESSAGE" value="1290 按位左移" />
+    <MESSAGE value="876 快慢指针很关键" />
+    <option name="LAST_COMMIT_MESSAGE" value="876 快慢指针很关键" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
