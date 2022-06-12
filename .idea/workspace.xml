@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="709位运算">
-      <change afterPath="$PROJECT_DIR$/字符串/1309. 解码字母到整数映射.py" afterDir="false" />
+    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="1309 解码字母">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -327,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654959558319</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="1309 解码字母">
+      <created>1654960758172</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1654960758172</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +366,8 @@
     <MESSAGE value="1678 exr" />
     <MESSAGE value="389 拼接+位运算+reduce计数" />
     <MESSAGE value="709位运算" />
-    <option name="LAST_COMMIT_MESSAGE" value="709位运算" />
+    <MESSAGE value="1309 解码字母" />
+    <option name="LAST_COMMIT_MESSAGE" value="1309 解码字母" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
