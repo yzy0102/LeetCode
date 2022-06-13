@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="1502超级简单题">
-      <change afterPath="$PROJECT_DIR$/循环/202. 快乐数.py" afterDir="false" />
+    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="快乐数.快慢指针!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654513397842</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="快乐数.快慢指针!">
+      <created>1654517753375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654517753375</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,13 +233,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1779" />
     <MESSAGE value="1779一遍过" />
     <MESSAGE value="1822简单题" />
     <MESSAGE value="1502超级简单题" />
-    <option name="LAST_COMMIT_MESSAGE" value="1502超级简单题" />
+    <MESSAGE value="快乐数.快慢指针!" />
+    <option name="LAST_COMMIT_MESSAGE" value="快乐数.快慢指针!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
