@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="快乐数.快慢指针!">
+    <list default="true" id="b3b1b565-7037-4e3c-a1dc-91630c01541b" name="Default Changelist" comment="876 快慢指针很关键">
+      <change afterPath="$PROJECT_DIR$/二叉树/104. 二叉树的最大深度.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表/876. 链表的中间结点.py" beforeDir="false" afterPath="$PROJECT_DIR$/链表/876. 链表的中间结点.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +54,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.202. 快乐数">
-    <configuration name="1502. 判断能否形成等差数列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.876. 链表的中间结点">
+    <configuration name="1290. 二进制链表转整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/链表" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环/1502. 判断能否形成等差数列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/链表/1290. 二进制链表转整数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1779. 找到最近的有相同 X 或 Y 坐标的点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1309. 解码字母到整数映射" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/条件语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/条件语句/1779. 找到最近的有相同 X 或 Y 坐标的点.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/1309. 解码字母到整数映射.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1822. 数组元素积的符号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="389. 找不同" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环/1822. 数组元素积的符号.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/389. 找不同.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="202. 快乐数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="709. 转换成小写字母" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环/202. 快乐数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/709. 转换成小写字母.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="976. 三角形的最大周长" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="876. 链表的中间结点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/条件语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/链表" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/条件语句/976. 三角形的最大周长.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/链表/876. 链表的中间结点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.202. 快乐数" />
-        <item itemvalue="Python.1502. 判断能否形成等差数列" />
-        <item itemvalue="Python.1822. 数组元素积的符号" />
-        <item itemvalue="Python.1779. 找到最近的有相同 X 或 Y 坐标的点" />
-        <item itemvalue="Python.976. 三角形的最大周长" />
+        <item itemvalue="Python.876. 链表的中间结点" />
+        <item itemvalue="Python.1290. 二进制链表转整数" />
+        <item itemvalue="Python.1309. 解码字母到整数映射" />
+        <item itemvalue="Python.709. 转换成小写字母" />
+        <item itemvalue="Python.389. 找不同" />
       </list>
     </recent_temporary>
   </component>
@@ -213,14 +216,147 @@
       <option name="project" value="LOCAL" />
       <updated>1654513397842</updated>
     </task>
-    <task id="LOCAL-00006" summary="快乐数.快慢指针!">
-      <created>1654517753375</created>
+    <task id="LOCAL-00006" summary="1790 时间复杂度O(n)">
+      <created>1654701618580</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1654517753375</updated>
+      <updated>1654701618580</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1790 时间复杂度O(n)">
+      <created>1654701760193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654701760193</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1790 时间复杂度O(n)">
+      <created>1654701817543</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654701817543</updated>
+    </task>
+    <task id="LOCAL-00009" summary="496 时间复杂度O(n2)需要修改 589需要更新">
+      <created>1654703238237</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654703238237</updated>
+    </task>
+    <task id="LOCAL-00010" summary="496 单调栈 O(m+n)">
+      <created>1654784281785</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654784281785</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1232 全等三角形, 用数学思维">
+      <created>1654785528909</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654785528909</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1588 数学方法">
+      <created>1654877716051</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654877716052</updated>
+    </task>
+    <task id="LOCAL-00013" summary="283 双指针">
+      <created>1654933765494</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654933765495</updated>
+    </task>
+    <task id="LOCAL-00014" summary="283 双指针&#10;1672 弱智题">
+      <created>1654934832535</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654934832535</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1572 简">
+      <created>1654943139466</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654943139466</updated>
+    </task>
+    <task id="LOCAL-00016" summary="556 数学">
+      <created>1654955577389</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654955577389</updated>
+    </task>
+    <task id="LOCAL-00017" summary="556 数学">
+      <created>1654955632465</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654955632465</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1768 简单">
+      <created>1654956173453</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654956173453</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1678 exr">
+      <created>1654957568967</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654957568967</updated>
+    </task>
+    <task id="LOCAL-00020" summary="389 拼接+位运算+reduce计数">
+      <created>1654959131124</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959131124</updated>
+    </task>
+    <task id="LOCAL-00021" summary="709位运算">
+      <created>1654959558319</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959558319</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1309 解码字母">
+      <created>1654960758172</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1654960758172</updated>
+    </task>
+    <task id="LOCAL-00023" summary="953 题目晦涩难懂">
+      <created>1655042716592</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1655042716592</updated>
+    </task>
+    <task id="LOCAL-00024" summary="1290 按位左移">
+      <created>1655045073262</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1655045073262</updated>
+    </task>
+    <task id="LOCAL-00025" summary="876 快慢指针很关键">
+      <created>1655045985077</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1655045985077</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,8 +376,24 @@
     <MESSAGE value="1779一遍过" />
     <MESSAGE value="1822简单题" />
     <MESSAGE value="1502超级简单题" />
-    <MESSAGE value="快乐数.快慢指针!" />
-    <option name="LAST_COMMIT_MESSAGE" value="快乐数.快慢指针!" />
+    <MESSAGE value="1790 时间复杂度O(n)" />
+    <MESSAGE value="496 时间复杂度O(n2)需要修改 589需要更新" />
+    <MESSAGE value="496 单调栈 O(m+n)" />
+    <MESSAGE value="1232 全等三角形, 用数学思维" />
+    <MESSAGE value="1588 数学方法" />
+    <MESSAGE value="283 双指针" />
+    <MESSAGE value="283 双指针&#10;1672 弱智题" />
+    <MESSAGE value="1572 简" />
+    <MESSAGE value="556 数学" />
+    <MESSAGE value="1768 简单" />
+    <MESSAGE value="1678 exr" />
+    <MESSAGE value="389 拼接+位运算+reduce计数" />
+    <MESSAGE value="709位运算" />
+    <MESSAGE value="1309 解码字母" />
+    <MESSAGE value="953 题目晦涩难懂" />
+    <MESSAGE value="1290 按位左移" />
+    <MESSAGE value="876 快慢指针很关键" />
+    <option name="LAST_COMMIT_MESSAGE" value="876 快慢指针很关键" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -250,6 +402,11 @@
           <url>file://$PROJECT_DIR$/运算符/191. 位1的个数.py</url>
           <line>18</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/数组/1588. 所有奇数长度子数组的和.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
